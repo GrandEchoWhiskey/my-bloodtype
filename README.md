@@ -1,3 +1,3 @@
 # bloodtype
 
-##Easy to use bloodtype predictor.
+## Easy to use bloodtype predictor.
