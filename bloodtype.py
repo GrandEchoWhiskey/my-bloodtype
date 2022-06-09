@@ -1,6 +1,9 @@
 """
 
-Created by Eric Wolf.
+Created by GrandEchoWhiskey.
+
+https://github.com/GrandEchoWhiskey
+
 Blood type probability.
 
 """
